@@ -13,5 +13,5 @@ minecraft/emotes/*
 minecraft/downloads/*
 minecraft/data/*
 minecraft/crash-reports/*
-minecraft/.mixing.out
+minecraft/.mixing.out/*
 minecraft/.cache/*
