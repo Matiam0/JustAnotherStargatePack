@@ -1,0 +1,16 @@
+filename = 'kubejsprojecte-1.3.1.jar'
+name = 'KubeJS ProjectE'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'aaff1e5edf0b7a46076a2f947ef56315bd67c6f6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6470283
+project-id = 838150

@@ -1,0 +1,50 @@
+/kubejs errors server
+/reload
+/reloadd
+/reload
+/projecte setemc 1024
+/projecte setemc 2048
+/reload
+/projecte setemc 4096
+/reload
+/projecte setemc 1 minecraft:glass_pane
+/reload
+/projecte setemc 4096
+/projecte setemc 8192
+/reload
+/projecte setemc 1000000000
+/projecte setemc 100000
+/reload
+/tool none
+/projecte setemc 16
+/reload
+/kubejs hand
+/projecte setemc 16 #c:seeds
+/reload
+/kubejs hand
+/projecte setemc 32 #c:crops
+/reload
+/enchant Matiamo soulbound_enchantment:soulbound 1
+/gamerule randomTickSpeed
+/gamerule randomTickSpeed 90
+/xp set Matiamo 10000 levels
+/ec enchant soulbound_enchantment:soulbound 1
+/projecte setemc 8 minecraft:stone
+/projecte setemc 16 minecraft:glass
+/reload
+/ec enchant soulbound_enchantment:soulbound 1
+/projecte setemc 8192
+/reload
+/datapack list
+/datapack enable "file/Fortunate Ancient Debris v3.4 (1.20-1.21.5).zip"
+/kubejs hand
+/give Matiamo projecte:watch_of_flowing_time
+/give Matiamo projecte:dm_pedestal
+/give Matiamo minecraft:elytra
+/give Matiamo minecraft:firework_rocket 64
+/xp set Matiamo 10000 levels
+/projecte setemc 40960
+/reload
+/projecte setemc 128 create:zinc_ingot
+/projecte setemc 128 create:brass_ingot
+/reload

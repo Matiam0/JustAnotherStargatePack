@@ -1,0 +1,16 @@
+filename = 'bookshelf-neoforge-1.21.1-21.1.51.jar'
+name = 'Bookshelf'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4d1e172d03f2f3c34fd426328bbb9ed7d47fb39fd11ebeddd5230e58d20cc256aeabfc3a9581d0dcedc749627bf956a98466f84e322896341b22b83917d17246'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/uy4Cnpcm/versions/t6Ou6HiS/bookshelf-neoforge-1.21.1-21.1.51.jar'
+
+[update.modrinth]
+mod-id = 'uy4Cnpcm'
+version = 't6Ou6HiS'

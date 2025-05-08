@@ -1,0 +1,16 @@
+filename = 'PickUpNotifier-v21.1.0-1.21.1-NeoForge.jar'
+name = 'Pick Up Notifier'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '225412190effa8a0ab6e63c686d2b36a3f1ee8f85038ff02d40cf166a566b6523c57e60beff795d4797cda365c44e5e9917aeb464acca98da1f2f25c83c354a7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ZX66K16c/versions/xbbkxKdT/PickUpNotifier-v21.1.0-1.21.1-NeoForge.jar'
+
+[update.modrinth]
+mod-id = 'ZX66K16c'
+version = 'xbbkxKdT'

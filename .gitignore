@@ -1,0 +1,17 @@
+minecraft/mods/*.jar
+minecraft/XaeroWaypoints*
+minecraft/xaero/*
+minecraft/shaderpacks/*
+minecraft/server-resource-packs/*
+minecraft/schematics/*
+minecraft/saves/*
+minecraft/resourcepacks/*
+minecraft/logs/*
+minecraft/local/*
+minecraft/journeymap/*
+minecraft/emotes/*
+minecraft/downloads/*
+minecraft/data/*
+minecraft/crash-reports/*
+minecraft/.mixing.out
+minecraft/.cache/*

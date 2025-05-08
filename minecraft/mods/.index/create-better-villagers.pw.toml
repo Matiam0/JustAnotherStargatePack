@@ -1,0 +1,16 @@
+filename = 'create_better_villagers-1.2.6-Neoforge-1.21.1.jar'
+name = 'Create: Better Villagers'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '987277ef737fccf11361b79a8635671178afcac99308b647441f6d852507321e7cdd25576a106eeb3642cc2873f17535c2f90632da1236e700c516e89d679cc8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/kS90mr4y/versions/KsOkwnqy/create_better_villagers-1.2.6-Neoforge-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'kS90mr4y'
+version = 'KsOkwnqy'

@@ -1,0 +1,16 @@
+filename = 'villager-bucket-1.2.1.jar'
+name = 'AIO - Villager Bucket'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '54634698e98888695feb0a0b6af3ee49178ca201242df5a5de8b245556cf5e9961784025479a1075948b0fa097409d2e5a76a959a57311a6949c6037944cb8b5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/EroFgCRJ/versions/P9I712RP/villager-bucket-1.2.1.jar'
+
+[update.modrinth]
+mod-id = 'EroFgCRJ'
+version = 'P9I712RP'

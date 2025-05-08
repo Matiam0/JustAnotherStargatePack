@@ -1,0 +1,13 @@
+[Client]
+	#allow_integration [false/true|default:false]
+	allow_integration = false
+	#flatMode [false/true|default:false]
+	flatMode = false
+	#hud0Offset
+	# Default: -204
+	# Range: -2048 ~ 2048
+	hud0Offset = -204
+	#hud1Offset
+	# Default: -174
+	# Range: -2048 ~ 2048
+	hud1Offset = -174

@@ -1,0 +1,16 @@
+filename = 'poisoning-enchantment-v1.0.4.jar'
+name = 'Poisoning Enchantment'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '5977f027d571664772d351cec8b435dc579cafc942f126e24d90c206ee0eb4f339de577de1dbb20a65c2f08063c5df00369dee91e371a71eb1ee1936d85b738b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/eJZKQKzM/versions/3tli25Sp/poisoning-enchantment-v1.0.4.jar'
+
+[update.modrinth]
+mod-id = 'eJZKQKzM'
+version = '3tli25Sp'

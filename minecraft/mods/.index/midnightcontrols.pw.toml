@@ -1,0 +1,16 @@
+filename = 'midnightcontrols-neoforge-1.10.0.jar'
+name = 'MidnightControls'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '5b69ba5e1b8d7f6135c567bcd0f4dbd98d39c1a1e89aa4564750e340bc558b4e3a9cd69d3bdf59fb957c17cf260c269e95a175d61364fb4ad2902fa507d35446'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/bXX9h73M/versions/ddpGQC3p/midnightcontrols-neoforge-1.10.0.jar'
+
+[update.modrinth]
+mod-id = 'bXX9h73M'
+version = 'ddpGQC3p'

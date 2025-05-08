@@ -1,0 +1,16 @@
+filename = 'create_more_additions-1.6.0-neoforge-1.21.1.jar'
+name = 'Create: Crafts & (More) Additions [Forge/Fabric]'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '715590dfea79f9dc97b65d68b43d781dfa686e4d78bca8ae0df0c686063960ebda6c6d805b49b59fc1d691594f03fe7a352b0fe979a6740b62a29fe9275096a5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ib8iIkX3/versions/XbdeYmTd/create_more_additions-1.6.0-neoforge-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'ib8iIkX3'
+version = 'XbdeYmTd'
