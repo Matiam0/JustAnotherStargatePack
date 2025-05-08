@@ -17,3 +17,4 @@ minecraft/.mixing.out/*
 minecraft/.cache/*
 minecraft/config/spark/tmp/*
 minecraft/config/spark/tmp-client/*
+instance.cfg
