@@ -17,4 +17,9 @@ minecraft/.mixing.out/*
 minecraft/.cache/*
 minecraft/config/spark/tmp/*
 minecraft/config/spark/tmp-client/*
+minecraft/emi.json
+minecraft/options.txt
+minecraft/realms_persistence.json
+minecraft/usercache.json
+minecraft/usernamecache.json
 instance.cfg
