@@ -15,3 +15,5 @@ minecraft/data/*
 minecraft/crash-reports/*
 minecraft/.mixing.out/*
 minecraft/.cache/*
+minecraft/config/spark/tmp/*
+minecraft/config/spark/tmp-client/*
