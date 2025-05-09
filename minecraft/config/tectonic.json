@@ -11,13 +11,9 @@
   },
   "snow_start_offset": 128,
   "terrain_scales": {
-    // Vanilla value is -0.22
-    "deep_ocean_depth": -0.45,
-    // Lower values = thicker mountain ranges and more space between ranges
+    "deep_ocean_depth": -0.7,
     "erosion_scale": 0.25,
-    // Vanilla value is -0.12
     "ocean_depth": -0.15,
-    // Higher values = vertically stretched terrain
     "vertical_multiplier": 1.125
   }
 }
