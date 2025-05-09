@@ -1,4 +1,4 @@
-tag explanation: [] denotes a tag.
+tag explanation: [] denotes a tag group.
 crafting = needs a reciipe.
 craft-rework = needs recipe changed.
 item-new = needs new item added/textured for each resource type.
