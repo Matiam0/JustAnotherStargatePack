@@ -8,4 +8,6 @@ item-fill = needs items added/textured but not for each resource type.
  - knives [item-new,crafting]
  - wrench [item-fill,crafting]
  - crafting table [crafting]
- - clay bucket [item-new, crafting]
+ - clay bucket [item-new,crafting]
+ - stone age [debate]
+ - decide how to do getting out of stone age furnace or ??? [debate]
