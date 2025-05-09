@@ -1,5 +1,5 @@
 allowCaveModeOnServer:true
 allowNetherCaveModeOnServer:true
-allowRadarOnServer:true
+allowRadarOnServer:false
 registerStatusEffects:true
 everyoneTracksEveryone:false
